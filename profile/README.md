@@ -1,4 +1,4 @@
-# Bit Forge ![crystal-f]
+# Bit Forge [![crystal-f]](https://github.com/bf-cr)
 
 [crystal-f]: https://img.shields.io/badge/Crystal-%23000000.svg?style=flat&logo=crystal&logoColor=white&cacheSeconds=3600
 [eng-logo]: https://img.shields.io/badge/-eng-blue?style=flat-square&logo=googletranslate&logoColor=white&labelColor=grey&cacheSeconds=3600
